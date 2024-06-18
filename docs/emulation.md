@@ -15,7 +15,10 @@ title: Emulation
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, and Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
+- [NXbrew](https://nxbrew.com/) - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
+
+
 
 ## Emulators
 
